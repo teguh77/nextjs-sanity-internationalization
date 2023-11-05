@@ -4,7 +4,7 @@ import { schemaTypes } from '@/sanity/schemas';
 import { documentInternationalization } from '@sanity/document-internationalization';
 import { i18n } from '@/i18n.config';
 
-const projectId = 'zqhvltuh';
+const projectId = '';
 const dataset = 'production';
 
 export default defineConfig({
